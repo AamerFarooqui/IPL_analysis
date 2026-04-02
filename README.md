@@ -117,6 +117,7 @@ Some insights discovered during the analysis:
 This project highlights the following data analytics skills:
 
 * Data Cleaning
+* Data Manipulation
 * Exploratory Data Analysis (EDA)
 * Data Visualization
 * Insight Extraction
